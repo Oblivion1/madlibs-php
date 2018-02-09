@@ -7,11 +7,11 @@
 </head>
   <body>
     <h1>Mad Libs</h1>
-        <nav>
-        <ul>
-            <li><a href="http://localhost/projecten/11.5%20madlibs/index.php">Er heerst paniek...</a></li>
-            <li><a href="http://localhost/projecten/11.5%20madlibs/Onkunde.php">Onkunde</a></li>
-        </ul>
+    <nav>
+      <ul>
+          <li><a href="http://localhost/projecten/12.%20madlibs/index.php">Er heerst paniek...</a></li>
+          <li><a href="http://localhost/projecten/12.%20madlibs/Onkunde.php">Onkunde</a></li>
+      </ul>
     </nav>
 
     <section>
